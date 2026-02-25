@@ -176,13 +176,13 @@ a {
 
 .btn-secondary {
   background: transparent;
-  color: var(--color-charcoal);
-  border-color: var(--color-charcoal);
+  color: var(--color-white);
+  border-color: var(--color-white);
 }
 
 .btn-secondary:hover {
-  background: var(--color-charcoal);
-  color: var(--color-white);
+  background: var(--color-white);
+  color: var(--color-charcoal);
   transform: translateY(-2px);
 }
 
@@ -528,7 +528,7 @@ a {
 
 .story-block {
   position: relative;
-  padding-left: 6rem;
+  padding-left: 10rem;
   animation: fadeInUp 0.8s ease-out both;
 }
 
@@ -1377,7 +1377,7 @@ a {
   }
 
   .story-block {
-    padding-left: 4rem;
+    padding-left: 5.5rem;
   }
 
   .year {
